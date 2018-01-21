@@ -1,0 +1,22 @@
+{
+  "name": "vikas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikas11221/imageScrapperBuild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikas11221/imageScrapperBuild/issues"
+  },
+  "homepage": "https://github.com/vikas11221/imageScrapperBuild#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
